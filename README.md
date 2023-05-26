@@ -1,4 +1,4 @@
-# Flavours of parameterised tests
+# Flavours of parameterized tests
 
 Using:
 
