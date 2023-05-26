@@ -8,3 +8,9 @@ Using:
 This is a show-case repository of tests which demonstrate test parametrisation techniques using Jest & TS.
 
 Made during creation of slides for an eponymous meetup talk.
+
+# Running tests
+
+`yarn`
+
+`yarn test`
